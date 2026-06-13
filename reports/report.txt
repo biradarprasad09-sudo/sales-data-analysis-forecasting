@@ -1,0 +1,72 @@
+
+==================================================
+           SALES ANALYSIS REPORT
+==================================================
+
+1. SALES PERFORMANCE
+
+Total Sales:
+10580000.00
+
+Average Sales:
+211600.00
+
+Total Quantity Sold:
+470
+
+--------------------------------------------------
+
+2. PRODUCT PERFORMANCE
+
+Top Performing Product:
+Laptop
+
+Lowest Performing Product:
+Tablet
+
+--------------------------------------------------
+
+3. BUSINESS GROWTH
+
+Growth Rate:
+-33.39 %
+
+--------------------------------------------------
+
+4. FORECASTING RESULTS
+
+30-Day Forecast:
+
+[236910.2, 237865.31, 238820.41, 239775.51, 240730.61, 241685.71, 242640.82, 243595.92, 244551.02, 245506.12, 246461.22, 247416.33, 248371.43, 249326.53, 250281.63, 251236.73, 252191.84, 253146.94, 254102.04, 255057.14, 256012.24, 256967.35, 257922.45, 258877.55, 259832.65, 260787.76, 261742.86, 262697.96, 263653.06, 264608.16]
+
+Average Forecasted Sales:
+
+250759.18
+
+--------------------------------------------------
+
+5. BUSINESS INSIGHTS
+
+• Laptop is currently the strongest product.
+
+• Tablet requires attention to improve sales.
+
+• Current growth rate is -33.39% .
+
+• Forecast indicates future sales trends based on historical data.
+
+--------------------------------------------------
+
+6. RECOMMENDATIONS
+
+• Increase inventory for top-performing products.
+
+• Review pricing and promotion strategies for low-performing products.
+
+• Monitor monthly growth trends regularly.
+
+• Use forecast results for future business planning.
+
+==================================================
+END OF REPORT
+==================================================
